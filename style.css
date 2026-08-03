@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 *{
     text-decoration: underline;
-    text-align:
+    text-align: center;
+    font-family: "Libertinus Serif", serif;
 }
 body{
     background-image: url(mar.avif);
     background-repeat:repeat;
     /*background-size: cover;*/
-    background-attachment: ;
+    background-attachment: fixed;
 }
 p {
     color: blueviolet;
